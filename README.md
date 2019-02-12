@@ -1,2 +1,2 @@
 # hello-world
-hello. this is the first master repository I created. cheers, Aryo
+hello. this is the first repository I created. cheers, Aryo
